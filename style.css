@@ -1,0 +1,41 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 400px;
+  margin: 12rem auto;
+  background-color: rgb(203, 155, 137);
+  padding: 2rem 4rem;
+  font-size: 3rem;
+  /* position: relative; */
+}
+.one {
+  margin-top: 2rem;
+  background-color: aquamarine;
+  padding: 2rem 6rem;
+}
+.two {
+  /* position: absolute; */
+  /* top: 20%;
+  left: 40%;
+  transform: translateX(50%);
+  transform: translateY(50%); */
+  margin-top: 2rem;
+  background-color: grey;
+  padding: 2rem 6rem;
+}
+.three {
+  margin-top: 2rem;
+  background-color: chocolate;
+  padding: 2rem 6rem;
+}
+.four {
+  margin-top: 2rem;
+  background-color: green;
+  padding: 2rem 6rem;
+}
